@@ -10,5 +10,5 @@ mum3 = num // 100 % 10
 
 summa = mum3 + mum2 + mum1
 
-print(f'Число соответственно, 1е - {mum3}, 2е - {mum2}, 3е - {mum1}')
+print(f'Число  соответственно, 1е - {mum3}, 2е - {mum2}, 3е - {mum1}')
 print(f'Сумма чисел: {summa}')
